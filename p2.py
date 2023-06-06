@@ -1,4 +1,14 @@
 ############################# pré prova ##########################################
+'''
+- Solução com lista:
+
+- Construa o programa que encontre o menor valor e o maior valor de um conjunto
+de valores inteiros digitados pelo usuário. A condição de saída será o valor -1
+que não será considerado na pesquisa.
+ --- ALTERAÇÕES:
+a. Mostre também a quantidade de valores armazenados na lista (digitados).
+b. Mostre também a soma de valores armazenados na lista (digitados).   
+'''
 lista = []
 ct = 0  # a.
 soma = 0
